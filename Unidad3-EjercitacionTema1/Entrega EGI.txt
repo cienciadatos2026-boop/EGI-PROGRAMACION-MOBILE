@@ -1,0 +1,5 @@
+ENTREGA:
+Integrantes: Cruceño, Elias, Luna y Mancifesta
+Repositorio code:https://github.com/cienciadatos2026-boop/OficiosYA.git
+Repositorio documentación EGI:https://github.com/cienciadatos2026-boop/EGI-PROGRAMACION-MOBILE.git
+Video presentacion: https://drive.google.com/file/d/1RxNGkYXmeHezJdNFEfm3vc-ShD3yPKcr/view?usp=drive_link
